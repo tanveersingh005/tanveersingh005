@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Full-stack+Builder;Loves+Real-World+Apps;Learning+Never+Stops!" />
 </p>
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
+<div align="center">
 <table align="center">
   <tr>
     <td align="left" width="60%">
