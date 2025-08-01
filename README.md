@@ -1,18 +1,30 @@
+<!-- Banner Section -->
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" alt="Tech-E Banner" width="800"/>
+</p>
+
+<!-- Animated Typing Fun -->
+<h1 align="center">🔥 Fun Animation: Let's Code!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Build+Break+Fix+Repeat;Solving+Real-World+Problems" />
+</p>
+
+<!-- Intro -->
 <h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Tanveer Singh</span></h1>
 <h3 align="center">🚀 Passionate | Self-Driven | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanveersingh005&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/tanveersingh005?label=Follow&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=tanveersingh005&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/tanveersingh005?label=Follow&style=social" />
 </p>
 
 ---
 
 ### 🌟 About Me
-- 🔭 Currently building: **YouTube Watch Party App** (Real-time Fun 🎥)
+- 🔭 Currently building: **YouTube Watch Party App**
 - 🌱 Learning: **TypeScript, System Design, DevOps Basics**
-- 👯 Seeking Collaborations on: **SaaS Dashboard UI Kit | Real-time Apps**
-- 🤝 Open to help with: **Reverse Logistics AI Integration**
+- 👯 Open to collaborate on: **SaaS Dashboard UI Kit | Real-time Apps**
+- 🤝 Need help with: **Reverse Logistics AI Integration**
 - 💬 Ask me about: **React, Tailwind CSS, Node.js, MongoDB, DSA**
 - 📫 Reach me at: **2023kucp1038@iiikota.ac.in**
 - 📄 [View My Resume](https://tanveersinghresume.tiiny.site)
@@ -59,7 +71,7 @@
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanveersingh005&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tanveersingh005&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -72,11 +84,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanveersingh005&theme=tokyonight" />
-</p>
-
----
-
-<h3 align="center">🔥 Fun Animation: Let's Code!</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=const+Tanveer+=+CodeLover();;Full-stack+Developer;Problem+Solver;Tech-Enthusiast;Open+Source+Contributor" />
 </p>
