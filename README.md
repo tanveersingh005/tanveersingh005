@@ -45,9 +45,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanveersingh005&theme=tokyonight" />
-</p>
 
 ---
 
