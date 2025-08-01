@@ -1,4 +1,8 @@
 <!-- Banner + Intro Section with Animated Hand and Right-side Image -->
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Full-stack+Builder;Loves+Real-World+Apps;Learning+Never+Stops!" />
+</p>
 <table align="center">
   <tr>
     <td align="left" width="60%">
@@ -13,15 +17,10 @@
       <p>📄 <a href="https://tanveersinghresume.tiiny.site" target="_blank"><b>View My Resume</b></a></p>
     </td>
     <td align="right" width="40%">
-      <img src="YOUR_IMAGE_LINK" alt="Developer at desk" width="300"/>
+      <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" alt="Developer at desk" width="300"/>
     </td>
   </tr>
 </table>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Full-stack+Builder;Loves+Real-World+Apps;Learning+Never+Stops!" />
-</p>
 
 ---
 
