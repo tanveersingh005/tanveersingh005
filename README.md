@@ -40,8 +40,16 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en&hide=stars&count_private=true&custom_title=Tanveer+Singh's+GitHub+Stats" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&custom_title=Most+Used+Languages" height="350"/>
+  <a href="https://github.com/tanveersingh005">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanveersingh005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/tanveersingh005">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanveersingh005&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveersingh005&theme=dark&hide_border=true"/>
 </p>
 
 
