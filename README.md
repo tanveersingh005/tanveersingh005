@@ -39,17 +39,10 @@
 ---
 
 <!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Stats</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en&hide=stars&count_private=true&custom_title=Tanveer+Singh's+GitHub+Stats" height="200" />
-    </td>
-    <td align="center" width="48%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&custom_title=Most+Used+Languages" height="200"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en&hide=stars&count_private=true&custom_title=Tanveer+Singh's+GitHub+Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&custom_title=Most+Used+Languages" height="200"/>
+</p>
 
 
 ---
