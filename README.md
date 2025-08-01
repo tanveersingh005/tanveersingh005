@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" alt="Tech-E Banner" width="800"/>
+  <img src="[YOUR_IMAGE_LINK](https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif)" alt="Tech-E Banner" width="800"/>
 </p>
 
 <!-- Animated Typing Fun -->
