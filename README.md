@@ -39,18 +39,19 @@
 ---
 
 <!-- GitHub Stats -->
-<p align="center">
-  <a href="https://github.com/tanveersingh005">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanveersingh005&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/tanveersingh005">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tanveersingh005&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+<h3 align="center">📊 GitHub Insights</h3>
 
-<p align="center">
-  <img height="200px" src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en&hide=stars&count_private=true&custom_title=My+GitHub+Statistics" height="200px"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&custom_title=My+Programming+Languages" height="200px"/>
+
+  <img src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200px" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanveersingh005&theme=tokyonight" height="200px"/>
+</div>
+
 
 
 
