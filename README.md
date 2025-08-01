@@ -9,24 +9,28 @@
 </p>
 
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="left" width="60%">
-      <h1>Hi there, I'm <span style="color:#0A66C2;">Tanveer Singh</span> <span>👋</span></h1>
-      <h3 style="color:yellow; font-family:monospace;">Passionate Developer</h3>
-      <p>🔭 Currently working on <b>YouTube Watch Party App</b></p>
-      <p>🌱 Learning <b>TypeScript, System Design, DevOps Basics</b></p>
-      <p>👯 Open to collaborate on <b>SaaS UI Kits | Real-time Apps</b></p>
-      <p>💬 Ask me about <b>React, Tailwind CSS, Node.js, MongoDB, DSA</b></p>
-      <p>📫 Contact: <b>2023kucp1038@iiikota.ac.in</b></p>
-      <p>⚡ Fun Fact: I build apps → break them → fix them better 😄</p>
-      <p>📄 <a href="https://tanveersinghresume.tiiny.site" target="_blank"><b>View My Resume</b></a></p>
-    </td>
-    <td align="right" width="40%">
-      <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" alt="Developer at desk" width="300"/>
-    </td>
-  </tr>
-</table>
+<h1 align="left">Hi there, I'm Tanveer Singh <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/waving-hand_1f44b.png" width="30px"/></h1>
+
+<h3>Passionate Developer</h3>
+
+<p>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
+</p>
+
+- 🚀 Currently working on **YouTube Watch Party App**
+
+- 🌱 Learning **TypeScript, System Design, DevOps Basics**
+
+- 🤝 Open to collaborate on **SaaS UI Kits | Real-time Apps**
+
+- 💬 Ask me about **React, Tailwind CSS, Node.js, MongoDB, DSA**
+
+- 📫 Contact: **2023kucp1038@iiikota.ac.in**
+
+- ⚡ Fun Fact: *I build apps → break them → fix them better 😄*
+
+- 📄 [View My Resume](https://tanveersinghresume.tiiny.site)
+
 
 ---
 
