@@ -53,7 +53,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanveersingh005&theme=tokyonight&utcOffset=8" height="200px"/>
 
   <!-- GitHub Streak Stats (100% Working Mirror) -->
-  <img src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200px"/>
+  <img src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true" height="200px"/>
 </div>
 
 
