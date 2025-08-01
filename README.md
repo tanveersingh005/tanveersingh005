@@ -1,37 +1,52 @@
-<!-- Banner Section -->
-<p align="center">
-  <img src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif" alt="Tech-E Banner" width="800"/>
-</p>
+<!-- Banner + Intro Section with Animated Hand and Right-side Image -->
+<table align="center">
+  <tr>
+    <td align="left" width="60%">
+      <h1>Hi there, I'm <span style="color:#0A66C2;">Tanveer Singh</span> <span>👋</span></h1>
+      <h3 style="color:yellow; font-family:monospace;">Passionate Developer</h3>
+      <p>🔭 Currently working on <b>YouTube Watch Party App</b></p>
+      <p>🌱 Learning <b>TypeScript, System Design, DevOps Basics</b></p>
+      <p>👯 Open to collaborate on <b>SaaS UI Kits | Real-time Apps</b></p>
+      <p>💬 Ask me about <b>React, Tailwind CSS, Node.js, MongoDB, DSA</b></p>
+      <p>📫 Contact: <b>2023kucp1038@iiikota.ac.in</b></p>
+      <p>⚡ Fun Fact: I build apps → break them → fix them better 😄</p>
+      <p>📄 <a href="https://tanveersinghresume.tiiny.site" target="_blank"><b>View My Resume</b></a></p>
+    </td>
+    <td align="right" width="40%">
+      <img src="YOUR_IMAGE_LINK" alt="Developer at desk" width="300"/>
+    </td>
+  </tr>
+</table>
 
-<!-- Animated Typing Fun -->
-<h1 align="center">🔥 Fun Animation: Let's Code!</h1>
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Build+Break+Fix+Repeat;Solving+Real-World+Problems" />
-</p>
-
-<!-- Intro -->
-<h1 align="center">Hi 👋, I'm <span style="color:#0A66C2;">Tanveer Singh</span></h1>
-<h3 align="center">🚀 Passionate | Self-Driven | Aspiring Software Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanveersingh005&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/tanveersingh005?label=Follow&style=social" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech-E;Full-stack+Builder;Loves+Real-World+Apps;Learning+Never+Stops!" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 Currently building: **YouTube Watch Party App**
-- 🌱 Learning: **TypeScript, System Design, DevOps Basics**
-- 👯 Open to collaborate on: **SaaS Dashboard UI Kit | Real-time Apps**
-- 🤝 Need help with: **Reverse Logistics AI Integration**
-- 💬 Ask me about: **React, Tailwind CSS, Node.js, MongoDB, DSA**
-- 📫 Reach me at: **2023kucp1038@iiikota.ac.in**
-- 📄 [View My Resume](https://tanveersinghresume.tiiny.site)
-- ⚡ Fun Fact: _I build apps → break them → fix them better 😄_
+<!-- GitHub Trophies -->
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tanveersingh005&theme=gruvbox&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanveersingh005&theme=tokyonight" />
+</p>
+
+---
+
+<!-- Connect With Me -->
 <h3 align="center">📲 Connect With Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tanveer-singh005/" target="_blank">
@@ -62,26 +77,8 @@
 
 ---
 
+<!-- Languages & Tools -->
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,typescript,js,html,css,mongodb,mysql,postgresql,git,github,figma,java,python,go,graphql,postman,nginx" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanveersingh005&theme=gruvbox&margin-w=15&margin-h=15" />
-</p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanveersingh005&theme=tokyonight" />
 </p>
