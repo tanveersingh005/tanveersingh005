@@ -9,20 +9,9 @@
 </p>
 
 <div align="center">
-<span style="font-size: 2em;">Hi there, I'm Tanveer Singh <span style="display:inline-block; animation:wave 2s infinite;">👋</span></span>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate( 0.0deg) }
- 10% { transform: rotate(14.0deg) }
- 20% { transform: rotate(-8.0deg) }
- 30% { transform: rotate(14.0deg) }
- 40% { transform: rotate(-4.0deg) }
- 50% { transform: rotate(10.0deg) }
- 60% { transform: rotate( 0.0deg) }
-100% { transform: rotate( 0.0deg) }
-}
-</style>
+<h1>Hi there, I'm Tanveer Singh 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="👋" />
+  </h1>
 
 <h3>Passionate Developer</h3>
 
