@@ -43,14 +43,19 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=tanveersingh005&show_icons=true&theme=tokyonight&locale=en&hide=stars&count_private=true&custom_title=My+GitHub+Statistics" height="200px"/>
 
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveersingh005&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6&custom_title=My+Programming+Languages" height="200px"/>
 
-  <img src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200px" />
+  <!-- Productive Time (No breakage) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanveersingh005&theme=tokyonight&utcOffset=8" height="200px"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tanveersingh005&theme=tokyonight" height="200px"/>
+  <!-- GitHub Streak Stats (100% Working Mirror) -->
+  <img src="https://streak-stats.demolab.com/?user=tanveersingh005&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="200px"/>
 </div>
+
 
 
 
