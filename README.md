@@ -31,7 +31,7 @@
 
 - ⚡ Fun Fact: *I build apps → break them → fix them better 😄*
 
-- 📄 [View My Resume](https://tanveersinghresume.tiiny.site)
+- 📄 [View My Resume]https://tanveersinghresume.tiiny.site
 
 
 ---
